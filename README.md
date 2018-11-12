@@ -3,19 +3,12 @@ package Percobaan1;
 
 class Pesawat {
     //variabelnya
-    
  String NomorPenerbangan;
- 
  String JenisPesawat;
- 
  String Maskapai;
- 
 int KecepatanMaksimal;
-
 int KapasitasPenumbang;
-
    //Konstruktornya
-   
     public Pesawat(String NP,String JP,String M,int KM, int KP)
     { this.NomorPenerbangan=NP;
       this.JenisPesawat=JP;
